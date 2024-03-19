@@ -9,11 +9,9 @@ It allows to change the animation with a custom one, it accepts a sting with the
 
 
 
-
-https://pixel-reactor.github.io/drag-light/
 ## Installation
 
-Install my-project with npm
+Install react-inview-wrapper with npm
 
 ```bash
  npm i react-inview-wrapper
