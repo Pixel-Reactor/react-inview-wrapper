@@ -9,8 +9,6 @@ It allows to change the animation with a custom one, it accepts a sting with the
 
 
 
-## 🔗 Links
-Deploy and live url : 
 
 https://pixel-reactor.github.io/drag-light/
 ## Installation
